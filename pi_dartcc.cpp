@@ -26,5 +26,3 @@ int main() {
   std::cout << pi_estimate << std::endl;
   return 0;
 }
-
-//Hello Marlo 
